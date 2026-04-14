@@ -1,0 +1,13 @@
+# Maven/Java build outputs
+**/target/
+
+# Environment and secret files
+**/.env
+**/local.env
+*.env
+*.local
+
+# OS/editor noise
+.DS_Store
+.idea/
+.metadata/
