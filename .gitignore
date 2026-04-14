@@ -11,3 +11,7 @@
 .DS_Store
 .idea/
 .metadata/
+.classpath
+.project
+**/.settings/
+*.iml
